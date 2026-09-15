@@ -1,0 +1,8 @@
+# Ignorar pastas de compilação e binários
+bin/
+*.class
+
+# Ignorar configurações locais do Eclipse/VS Code
+.settings/
+.classpath
+.project
